@@ -9,11 +9,11 @@
 
 ###
 
-<h2 align="left">Tecnologias que estou estudando</h2>
+## <h2 align="left">Tecnologias que estou estudando</h2>
 
 ###
 
-<img align="right" height="100" src="https://cdn.discordapp.com/attachments/1073064014113939526/1240082226906136666/434845620_7309347602513681_4841279143096760044_n.jpg?ex=66454412&is=6643f292&hm=4d203789d9b1030864c33a1c09ab024a4d96a9cd8b48be0ac4898300f8dcb4e1&"  />
+
 
 ###
 
