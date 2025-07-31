@@ -28,5 +28,3 @@
 </div>
 
 ###
-
-<a href="https://app.rocketseat.com.br/me/cristiandelima"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cristiandelima&type=card" width="280" alt="Cristian De Lima's Rocket ID"/></a>
