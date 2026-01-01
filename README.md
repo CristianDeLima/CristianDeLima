@@ -1,7 +1,7 @@
 <h2 align="left">Olá! Eu sou o Cristian De Lima</h2>
 
 
-## <h2 align="left">Tecnologias que estou estudando</h2>
+<h2 align="left">Tecnologias que estou estudando</h2>
 
 
 ###
