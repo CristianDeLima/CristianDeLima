@@ -3,9 +3,6 @@
 
 ## <h2 align="left">Tecnologias que estou estudando</h2>
 
-###
-
-
 
 ###
 
