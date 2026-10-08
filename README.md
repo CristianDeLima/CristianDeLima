@@ -6,7 +6,7 @@ Repositório para documentar minha jornada de estudos em programação e desenvo
 
 Aqui eu registro meu progresso, anotações e projetos práticos conforme avanço nos cursos. A ideia é manter um histórico real de tudo que venho aprendendo, do front-end básico até a construção de aplicações completas.
 
-## ✅ Rocketseat — Curso Full-Stack
+## 🔄 Rocketseat — Curso Full-Stack (em andamento)
 
 - [x] HTML
 - [x] CSS
@@ -15,11 +15,15 @@ Aqui eu registro meu progresso, anotações e projetos práticos conforme avanç
 
 Finalizei os módulos de **HTML** e **CSS**, aprendendo desde a estruturação semântica de páginas até estilização, layout responsivo (Flexbox/Grid) e boas práticas de front-end.
 
-## 🔄 curso.dev — Em andamento
+Agora estou seguindo com **JavaScript** e os próximos módulos, em um ritmo que me permite absorver bem cada conteúdo antes de avançar.
 
-Agora estou me aventurando no [curso.dev](https://curso.dev), do Filipe Deschamps. Diferente de cursos tradicionais divididos em módulos fechados, ele segue a construção de um **projeto real** (um clone do TabNews), e ao longo do caminho vai ensinando toda a teoria e prática por trás de uma aplicação web de verdade.
+## ⏸️ curso.dev — Pausado
 
-### O que venho aprendendo por lá:
+Cheguei a começar o [curso.dev](https://curso.dev), do Filipe Deschamps, que segue a construção de um **projeto real** (um clone do TabNews) e ensina a teoria e a prática por trás de uma aplicação web de verdade.
+
+Percebi que, neste momento, o conteúdo é avançado demais para o meu nível atual. Por isso, decidi pausar e voltar para a Rocketseat, que tem uma progressão mais gradual. A ideia é retomar o curso.dev quando tiver uma base mais sólida de JavaScript.
+
+### O que pretendo aprender quando retomar:
 
 - [ ] JavaScript avançado
 - [ ] Node.js
@@ -32,18 +36,15 @@ Agora estou me aventurando no [curso.dev](https://curso.dev), do Filipe Deschamp
 - [ ] Arquitetura de sistemas e boas práticas
 - [ ] Deploy e ambientes de produção
 
-> 📝 Essa lista vai sendo atualizada conforme o curso avança e novos conteúdos são liberados.
-
 ## 🛠️ Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+
+> 🔜 Node.js, PostgreSQL e Docker entram na lista conforme eu avançar nos estudos.
 
 ## 🎯 Objetivo
 
